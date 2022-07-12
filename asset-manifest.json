@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-task-sort-table/static/css/main.d6e4c33d.css",
+    "main.js": "/react-task-sort-table/static/js/main.8f08bc00.js",
+    "static/js/787.7ca561d5.chunk.js": "/react-task-sort-table/static/js/787.7ca561d5.chunk.js",
+    "index.html": "/react-task-sort-table/index.html",
+    "main.d6e4c33d.css.map": "/react-task-sort-table/static/css/main.d6e4c33d.css.map",
+    "main.8f08bc00.js.map": "/react-task-sort-table/static/js/main.8f08bc00.js.map",
+    "787.7ca561d5.chunk.js.map": "/react-task-sort-table/static/js/787.7ca561d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6e4c33d.css",
+    "static/js/main.8f08bc00.js"
+  ]
+}
